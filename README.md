@@ -6,6 +6,7 @@
 
 ### 해커톤에서 큰 기능을 구현하기보단 조금이라도 만들었다에 중심을 둠(시험기간이여서 셤공부한건 안비밀)
 
+## 해커톤 기간동안 생긴 오류와 배운 것들
 <img width="520" alt="image" src="https://github.com/kkh041124/discord_bot/assets/73376225/83692fa3-05fb-4536-9567-8adfa4a37b8e">
 
 <img width="505" alt="image" src="https://github.com/kkh041124/discord_bot/assets/73376225/6c616155-b0e7-436b-9b5a-f2c9ef569cee">
